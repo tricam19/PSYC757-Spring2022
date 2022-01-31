@@ -30,6 +30,10 @@
 ##                    = 7/49 + 7/49 - 2/49
 ##                    = 12/49
 
+## DRS: For the first question, why are you subtracted 2*(P(A)P(B) instead of just P(A)P(B)? 
+## By my reading, the case of two girls born on Thursday is allowed, since the question asks 
+## for the probability that AT LEAST ONE daughter is born on that day...wouldn't subtracted 
+## 2*(P(A)P(B)) eliminate too much of the problem space?
 
 # 2. In families with 2 daughters, what's the probability that at least one
 # daughter is named Leila? Let's assume that on average 1 out of every 7 girl is
